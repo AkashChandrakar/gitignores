@@ -1,0 +1,6 @@
+# intellij
+.idea/
+
+
+# pycharm twister trial
+*/**/_trial_temp/
